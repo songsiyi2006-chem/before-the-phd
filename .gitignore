@@ -1,0 +1,12 @@
+build/
+outputs/
+work/
+__pycache__/
+*.pyc
+.env
+.env.*
+*存档*.json
+*save*.json
+source/v2-backup/
+.DS_Store
+Thumbs.db
